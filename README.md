@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoanSoleCarulla
-- 👀 I’m interested in Improving my coding skills, learning to interact with dev tools, getting used to work with repositories and versions
+- 👀 I’m interested in Improving my coding skills, learning to interact with dev tools, getting used to work with repositories and versions among others
 - 🌱 I’m currently learning C++ mostly
 - 💞️ I’m looking to collaborate on Still too green to collaborate on anything worthy of mention
 - 📫 How to reach me Via message on GitHub
